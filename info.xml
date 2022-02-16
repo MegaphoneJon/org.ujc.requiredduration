@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.ujc.requiredduration" type="module">
+  <file>requiredduration</file>
+  <name>Required Duration</name>
+  <description>Requires the Duration field on all Case Activities</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Joseph Lacey</author>
+    <email>joseph@palantetech.coop</email>
+  </maintainer>
+  <releaseDate>2014-09-18</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments>This module was built for Urban Justice Center - Domestic Violence Project.</comments>
+  <civix>
+    <namespace>CRM/Requiredduration</namespace>
+  </civix>
+</extension>
